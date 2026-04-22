@@ -77,7 +77,7 @@
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/crypto-dashboard.git
+git clone https://github.com/graxyzr/crypto-dashboard.git
 cd crypto-dashboard
 
 # 2. Instale as dependências
